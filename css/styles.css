@@ -1,3 +1,6 @@
 body {
   background-image: url(../img/InternetBackground.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  text: black;
 }
