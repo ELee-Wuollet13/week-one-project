@@ -5,6 +5,9 @@
   text: black;
 }
 
+.Tir {
+  background-image: url(../img/TirBack.jpg);
+}
 .thumbnail {
   text-align: center;
 }
@@ -16,8 +19,8 @@
   margin: 30px;
 background-color: #ffffff;
 border: 1px solid black;
-opacity: 0.4;
-filter: alpha(opacity=40);
+opacity: 0.5;
+filter: alpha(opacity=50);
 }
 
 .banner:hover {
@@ -33,4 +36,8 @@ ul {
 
 img {
   width: 75%;
+}
+
+.hacking {
+  text-decoration-color: green;
 }
