@@ -4,3 +4,7 @@ body {
   background-size: auto;
   text: black;
 }
+
+.thumbnail {
+  text-align: center;
+}
