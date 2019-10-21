@@ -1,6 +1,8 @@
 # Project Title
 
 A website designed as a news site from the world of Shadowrun
+To view the site in it's humble entirety, follow the link below
+https://elee-wuollet13.github.io/week-one-project/
 
 ## Getting Started
 
